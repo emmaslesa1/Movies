@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebAPI(aspNetCoreReactSSMS)\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\Uploads\\42ab6e40-6f96-47ac-a7c0-8ec6c8a286d4.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\42ab6e40-6f96-47ac-a7c0-8ec6c8a286d4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebAPI(aspNetCoreReactSSMS)\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\Uploads\\50a6ecfa-87e4-4d13-89d0-08188eb7459d.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\50a6ecfa-87e4-4d13-89d0-08188eb7459d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebAPI(aspNetCoreReactSSMS)\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\Uploads\\f48e7b48-bb5a-4b3c-b6d1-a36b6f79daea.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\f48e7b48-bb5a-4b3c-b6d1-a36b6f79daea.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebAPI(aspNetCoreReactSSMS)\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebAPI(aspNetCoreReactSSMS)\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MovieStoreMvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MovieStoreMvc.props",
+      "PackagePath": "build\\MovieStoreMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieStoreMvc.props",
+      "PackagePath": "buildMultiTargeting\\MovieStoreMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MovieStoreMvc.props",
+      "PackagePath": "buildTransitive\\MovieStoreMvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
