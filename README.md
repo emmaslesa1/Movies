@@ -1,6 +1,6 @@
 # Movies
-An application that allows users to see a list of movies, and information about a particular movie such as title, year of release, picture, actors, director and genre. Admin hasthe ability to add, edit and delete movie and genre.  
-Admin is registered with data:
+An application that allows users to see a list of movies, and information about a particular movie such as title, year of release, picture, actors, director and genre. Admin hasthe ability to add, edit and delete movie and genre.          
+Admin is registered with data:                
 Username - admin        
 Password - Admin@123
 
