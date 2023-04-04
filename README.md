@@ -3,6 +3,7 @@ An application that allows users to see a list of movies, and information about 
 
 
 Admin has the ability to add, edit and delete movie and genre.
+
 Admin is registered with data:
 
 Username - admin
